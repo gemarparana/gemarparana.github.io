@@ -1536,7 +1536,7 @@ page heading
 */
 
 .page-heading {
-  background-image: url(../images/heading-bg.jpg);
+  background-image: url(../images/banner-bg.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1575,6 +1575,11 @@ page heading
   border-top: 2px solid rgba(250, 250, 250, 0.2);
   font-size: 20px;
   color: #fff;
+}
+
+.page-heading h6 em {
+  font-style: normal;
+  color: #00bdfe;
 }
 
 .page-heading .main-content {
