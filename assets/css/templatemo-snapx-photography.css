@@ -455,7 +455,7 @@ Header Style
 .header-area .main-nav .nav li.has-sub ul.sub-menu li a {
   opacity: 1;
   display: block;
-  background: #f7f7f7;
+  background: #fff;
   color: #2a2a2a !important;
   padding-left: 20px;
   height: 40px;
@@ -651,7 +651,7 @@ Header Style
     width: 100%;
   }
   .header-area {
-    background-color: #f7f7f7;
+    background-color: #ffff;
     padding: 0px 15px;
     height: 100px;
     box-shadow: none;
@@ -1881,7 +1881,7 @@ Contest Details Page
 */
 
 .contest-details .top-content {
-  background-color: #e7f9ff;
+  background-color: #f7f7f7;
   border-top-right-radius: 10px;
   border-top-left-radius: 10px;
   padding: 30px 45px;
@@ -2026,7 +2026,7 @@ Contest Details Page
 }
 
 .contest-waiting .waiting-item .down-content {
-  background-color: #f7f7f7;
+  background-color: #fff;
   border-bottom-left-radius: 15px;
   border-bottom-right-radius: 15px;
   padding: 25px;
@@ -2112,7 +2112,7 @@ Categories Page
 }
 
 .top-categories .item .icon {
-  background-color: #f7f7f7;
+  background-color: #ffff;
   width: 75px;
   height: 75px;
   display: inline-block;
@@ -2385,7 +2385,7 @@ Users Page
 
 section.portfolio {
   padding: 80px 0px;
-  background-color: #f7f7f7;
+  background-color: #ffffff;
 }
 
 section.portfolio .thumb {
