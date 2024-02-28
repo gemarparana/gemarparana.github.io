@@ -21,8 +21,8 @@ info@gemarparana.org
 
 1. Clone o repositório
    ```sh
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-
+   git clone https://github.com/gemarparana/gemarparana.github.io.git
+   
 
 ## Este trabalho está licenciado sob a licença:
 [Creative Commons Attribution 4.0 International License][cc-by].
